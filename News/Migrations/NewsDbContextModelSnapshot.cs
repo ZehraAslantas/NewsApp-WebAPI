@@ -88,7 +88,7 @@ namespace News.Migrations
                             PublishedAt = new DateTime(2025, 2, 12, 14, 0, 0, 0, DateTimeKind.Utc),
                             Slug = "aspnet-core-9-0-yenilikler",
                             Status = "Published",
-                            Summary = "<p>ASP.NET Core 9.0 güncellemesinde performans iyileştirmeleri",
+                            Summary = "ASP.NET Core 9.0 güncellemesinde performans iyileştirmeleri",
                             Title = "ASP.NET Core 9.0'daki yenilikler"
                         },
                         new

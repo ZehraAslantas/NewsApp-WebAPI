@@ -54,7 +54,7 @@ namespace News.Repositories.Config
                      Id = 2,
                      Title = "ASP.NET Core 9.0'daki yenilikler",
                      Slug = "aspnet-core-9-0-yenilikler",
-                     Summary = "<p>ASP.NET Core 9.0 güncellemesinde performans iyileştirmeleri",
+                     Summary = "ASP.NET Core 9.0 güncellemesinde performans iyileştirmeleri",
                      Content = "",
                      PublishedAt = new DateTime(2025, 2, 12, 14, 0, 0, DateTimeKind.Utc),
                      Status = NewsStatus.Published,
