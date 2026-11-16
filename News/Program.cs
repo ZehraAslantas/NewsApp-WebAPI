@@ -20,7 +20,7 @@ options.SwaggerDoc("v1", new OpenApiInfo()
 {
     Title = "Haberler API",
     Version = "v1",
-    Description = "BTK Akademi Haberler için Swagger belgesi"
+    Description = "Haber yönetimi için RESTful API"
 }));
 
 builder.Services.AddOpenApi();

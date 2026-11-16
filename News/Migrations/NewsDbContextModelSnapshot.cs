@@ -72,7 +72,7 @@ namespace News.Migrations
                         new
                         {
                             Id = 1,
-                            AuthorName = "Btk Akademi",
+                            AuthorName = "Developer Akademi",
                             Content = "<p> Yapay zeka, medya kuruluşlarında içerik üretimini hızlandırmaya başladı",
                             PublishedAt = new DateTime(2025, 1, 5, 9, 30, 0, 0, DateTimeKind.Utc),
                             Slug = "yapay-zeka-destekli-haber-uretimi",
@@ -83,7 +83,7 @@ namespace News.Migrations
                         new
                         {
                             Id = 2,
-                            AuthorName = "Zafer Yazar",
+                            AuthorName = "Ali Baş",
                             Content = "",
                             PublishedAt = new DateTime(2025, 2, 12, 14, 0, 0, 0, DateTimeKind.Utc),
                             Slug = "aspnet-core-9-0-yenilikler",

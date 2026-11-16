@@ -47,7 +47,7 @@ namespace News.Repositories.Config
                     Content = "<p> Yapay zeka, medya kuruluşlarında içerik üretimini hızlandırmaya başladı",
                     PublishedAt = new DateTime(2025, 1, 5, 9, 30, 0, DateTimeKind.Utc),
                     Status=NewsStatus.Published,
-                    AuthorName="Btk Akademi"
+                    AuthorName="Developer Akademi"
                 },
                  new NewsArticle()
                  {
@@ -58,7 +58,7 @@ namespace News.Repositories.Config
                      Content = "",
                      PublishedAt = new DateTime(2025, 2, 12, 14, 0, 0, DateTimeKind.Utc),
                      Status = NewsStatus.Published,
-                     AuthorName = "Zafer Yazar"
+                     AuthorName = "Ali Baş"
                  },
                  new NewsArticle()
                  {
